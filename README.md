@@ -15,6 +15,7 @@
   -contains fields for name, age, location, diet preferences, event types, and tags
   -add needed constructor, getters and setters, as well as any annotations need for fields
 <img width="503" alt="image" src="https://github.com/chrimcha/CodingEventsJava/assets/147195321/eb242336-492d-47c6-a836-fe7f48bc20f0">
+
 --implement edit and delete for Tags and Categories
 --Person class will allow user to save Events, Categories, and Tags to their profile for further use
 
