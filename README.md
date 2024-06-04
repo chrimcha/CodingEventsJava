@@ -1,26 +1,25 @@
 /1/ Purpose of App
 
---To store, view, and edit a database of Events in a way that is easy for a user to access and modify.
+  1.To store, view, and edit a database of Events in a way that is easy for a user to access and modify.
 
 /2/ Current state of App
 
---connected to persistent database
---can create Events, Categories, and Tags that can be add and related to each other
---can not edit or delete Tags or Categories
---can view all Events, Categories, or Tags
+  1.connected to persistent database
+  2.can create Events, Categories, and Tags that can be add and related to each other
+  3.can not edit or delete Tags or Categories
+  4.can view all Events, Categories, or Tags
 
 
 /3/ Future impprovements for App
 
---Add a Person class 
-  -that exstends to AbstractEntity
-  -has a many-to-many relation to Event class
-  -contains fields for name, age, location, diet preferences, event types, and tags
-  -add needed constructor, getters and setters, as well as any annotations need for fields
+1.Add a Person class 
+  1. that exstends to AbstractEntity
+  2. has a many-to-many relation to Event class
+  3. contains fields for name, age, location, diet preferences, event types, and tags
+  4. add needed constructor, getters and setters, as well as any annotations need for fields
 <img width="503" alt="image" src="https://github.com/chrimcha/CodingEventsJava/assets/147195321/eb242336-492d-47c6-a836-fe7f48bc20f0">
-
---implement edit and delete for Tags and Categories
---Person class will allow user to save Events, Categories, and Tags to their profile for further use
+  5. implement edit and delete for Tags and Categories
+  6. Person class will allow user to save Events, Categories, and Tags to their profile for further use
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
