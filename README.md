@@ -25,6 +25,7 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 /From Text/ Check your solution
+
 Here is an example of how the README may turn out:
 
 1. Our Person class might hold the following fields:
