@@ -12,7 +12,7 @@
 
 /3/ Future impprovements for App
 
-1.Add a Person class 
+1. Add a Person class 
   1. that exstends to AbstractEntity
   2. has a many-to-many relation to Event class
   3. contains fields for name, age, location, diet preferences, event types, and tags
