@@ -1,7 +1,9 @@
 /1/ Purpose of App
+
 --To store, view, and edit a database of Events in a way that is easy for a user to access and modify.
 
 /2/ Current state of App
+
 --connected to persistent database
 --can create Events, Categories, and Tags that can be add and related to each other
 --can not edit or delete Tags or Categories
@@ -9,6 +11,7 @@
 
 
 /3/ Future impprovements for App
+
 --Add a Person class 
   -that exstends to AbstractEntity
   -has a many-to-many relation to Event class
