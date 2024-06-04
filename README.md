@@ -13,14 +13,14 @@
 /3/ Future impprovements for App
 
 1. Add a Person class 
-  1. that exstends to AbstractEntity
-  2. has a many-to-many relation to Event class
-  3. contains fields for name, age, location, diet preferences, event types, and tags
-  4. add needed constructor, getters and setters, as well as any annotations need for fields
-<img width="503" alt="image" src="https://github.com/chrimcha/CodingEventsJava/assets/147195321/eb242336-492d-47c6-a836-fe7f48bc20f0">
-
-  5. implement edit and delete for Tags and Categories
-  6. Person class will allow user to save Events, Categories, and Tags to their profile for further use
+    1. that exstends to AbstractEntity
+    2. has a many-to-many relation to Event class
+    3. contains fields for name, age, location, diet preferences, event types, and tags
+    4. add needed constructor, getters and setters, as well as any annotations need for fields
+  <img width="503" alt="image" src="https://github.com/chrimcha/CodingEventsJava/assets/147195321/eb242336-492d-47c6-a836-fe7f48bc20f0">
+  
+    5. implement edit and delete for Tags and Categories
+    6. Person class will allow user to save Events, Categories, and Tags to their profile for further use
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
