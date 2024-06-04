@@ -22,7 +22,7 @@
   5. implement edit and delete for Tags and Categories
   6. Person class will allow user to save Events, Categories, and Tags to their profile for further use
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 /From Text/ Check your solution
 Here is an example of how the README may turn out:
